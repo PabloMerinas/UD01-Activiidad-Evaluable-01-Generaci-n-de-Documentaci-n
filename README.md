@@ -40,6 +40,9 @@
 ### Clonar el Repositorio
 Para obtener una copia del proyecto, clona el repositorio en tu máquina local usando el siguiente comando en tu terminal:
 
+https://github.com/PabloMerinas/UD01-Activiidad-Evaluable-01-Generaci-n-de-Documentaci-n
+
+Git clone https://github.com/PabloMerinas/UD01-Activiidad-Evaluable-01-Generaci-n-de-Documentaci-n
 
 ### Configuración en el IDE
 
